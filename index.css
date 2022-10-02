@@ -1,0 +1,119 @@
+* {    
+    text-decoration: none;
+}
+
+nav {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+}
+
+section {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+section h2 {
+    margin: 10px;
+}
+
+.block {
+    height: 120px;
+    width: 250px;
+    display: inline-block;
+    border: 1px solid;
+    margin: 10px;
+    padding: 5px;
+}
+
+.block h3, .block p {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#black {
+    background-color: #000;
+    color: white;
+}
+
+#white {
+    background-color: #FFF;
+    color: black;
+}
+
+#blue {
+    background-color: #0000FF;
+    color: white;
+}
+
+#darkblue {
+    background-color: #00008B;
+    color: white;
+}
+
+#red {
+    background-color: #FF0000;
+    color: white;
+}
+
+.fonts {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.fonts h3 {
+    margin-left: 10px;
+}
+
+.fonts p {
+    margin-left: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+#opensans {
+    font-family: 'Open Sans';
+}
+
+#times {
+    font-family: 'Times New Roman';
+}
+
+#styles h1, #styles h2, #styles h3, #styles p, #styles li {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#positioning {
+    font-family: Arial, Helvetica, sans-serif;
+}
